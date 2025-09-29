@@ -93,7 +93,7 @@ It is a large dataset of 55,000 Entries  That  includes anonymized records under
 ## Author
 
 N Somesh  
-Final Year Engineering Student In Data Engineering & Roles 
+Final Year Engineering Student Interested in Data Engineering & Roles 
 Email: someshnalluri78@gmail.com  
 LinkedIn:www.linkedin.com/in/someshn
 
