@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project presents a detailed Power BI dashboard analyzing hospital and insurance performance metrics .
-As a final-year engineering student specializing in data Engineering , I developed this project to demonstrate my ability to Handle raw data with SQL & Transform into actionable insights using Power BI.
+As a final-year engineering student specializing in data Engineering , I developed this project to demonstrate my ability to Handle raw data with SQL & Transform into actionable insights using Power BI Without Using Any Of The Pre-Defined Templates or Themes.
 
 
 ## Objectives
@@ -65,19 +65,31 @@ It is a large dataset of 55,000 Entries  That  includes anonymized records under
 -Admission Trends & Test Result
 - Cost trends by age group and gender
 - Regional and insurance-based cost variations
-- Successful Medication
+- Successful Medication based on Admission Type
 
 ---
+### Real-World, Data-Driven Applications from Dashboard Patterns
+- Helps patients identify insurance providers with high claim failure rates before choosing coverage.
+- Enables insurers to monitor gender-wise disease distribution and launch targeted wellness campaigns.
+- Tracks billing trends over time to support hospital revenue forecasting and budget planning.
+- Analyzes average treatment and result times to improve diagnostic turnaround and service quality.
+- Reveals age-wise claim rejection patterns across providers to guide smarter insurance decisions for customers.
 
+
+---
 ## Technical Implementation
 
 - Tool: Power BI Desktop  
 - File Format: `.pbix`  
 - Techniques Used:
+  -imported Dataset & converted intoo CSV file.
+  - Used Pandas & Matplotlib Libraries for Handling Data & Initial Visualization
+  - MySQL Workbench 8.0 CE To Normalise & Cleaning The Data
+  - mysql-connector-python TO connect Python & SQL 
   - DAX for calculated columns and measures
-  - Custom visuals and layout optimization
-  - Cross-filtering and drill-through functionality
-  - Modular design for scalability and clarity
+  - Used visualisation and Data Fields  For The optimization
+  -  Handled Cross-filtering and drill-through functions
+  - GitHub Desktop & GitBash For The Repo
   
 ---
 
