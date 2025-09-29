@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project presents a detailed Power BI dashboard analyzing hospital and insurance performance metrics .
-As a final-year engineering student specializing in data Engineering , I developed this project to demonstrate my ability to Handle raw data with SQL & Transform into actionable insights using Power BI Without Using Any Of The Pre-Defined Templates or Themes.
+As a final-year engineering student Intereted in data Engineering , I developed this project to demonstrate my ability to Handle raw data with SQL & Transform into actionable insights using Power BI Without Using Any Of The Pre-Defined Templates or Themes.
 
 
 ## Objectives
