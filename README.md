@@ -17,7 +17,8 @@ As a final-year engineering student specializing in data Engineering , I develop
 ---
 
 ## Dataset Summary
-Dataet url :https://1drv.ms/x/c/d72b75e7ea0e398d/EUCDSQ8yTiZOpX59mOEJuA4B9ChZfxQu16smeHDW7QGFYA?e=scX3Xb
+Dataet url :[https://1drv.ms/x/c/d72b75e7ea0e398d/EUCDSQ8yTiZOpX59mOEJuA4B9ChZfxQu16smeHDW7QGFYA?e=scX3Xb]
+
 It is a large dataset of 55,000 Entries  That  includes anonymized records under Fields:
 - Patient ID  
 - Hospital Type  
@@ -68,7 +69,7 @@ It is a large dataset of 55,000 Entries  That  includes anonymized records under
 - Successful Medication based on Admission Type
 
 ---
-### Real-World]  Applications from Dashboard Patterns
+### Real-World Applications from Dashboard Patterns
 - Helps patients identify insurance providers with high claim failure rates before choosing coverage.
 - Enables insurers to monitor gender-wise disease distribution and launch targeted wellness campaigns.
 - Tracks billing trends over time to support hospital revenue forecasting and budget planning.
