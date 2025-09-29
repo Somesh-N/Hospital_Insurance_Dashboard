@@ -68,7 +68,7 @@ It is a large dataset of 55,000 Entries  That  includes anonymized records under
 - Successful Medication based on Admission Type
 
 ---
-### Real-World, Data-Driven Applications from Dashboard Patterns
+### Real-World]  Applications from Dashboard Patterns
 - Helps patients identify insurance providers with high claim failure rates before choosing coverage.
 - Enables insurers to monitor gender-wise disease distribution and launch targeted wellness campaigns.
 - Tracks billing trends over time to support hospital revenue forecasting and budget planning.
